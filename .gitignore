@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+
+# Temporary files
+temp_sort/
+temp/
+*.temp
+*.tmp
+
+# Test data
+test-data.txt
+*.csv
+*.txt
+!README.md
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+.DS_Store

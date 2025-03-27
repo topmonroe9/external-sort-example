@@ -1,0 +1,23 @@
+{
+  "name": "external-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests specified\" && exit 0",
+    "generate-test-file": "node -e \"require('./src/utils').createTestFile('test-data.txt', 258, 100)\""
+  },
+  "keywords": [
+    "sort",
+    "external",
+    "large-files",
+    "node.js"
+  ],
+  "author": "Egor Semenchenko",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {}
+}
