@@ -29,7 +29,7 @@
 1. Клонировать репозиторий:
 
 ```bash
-git clone https://github.com/username/external-sort.git
+git clone https://github.com/topmonroe9/external-sort.git
 cd external-sort
 ```
 
